@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# **SALBEEN CHAPAGAIN**
+# **< SALBEEN CHAPAGAIN />**
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 **Full-Stack Developer | MERN Stack | Bharatpur, Nepal 🇳🇵**
