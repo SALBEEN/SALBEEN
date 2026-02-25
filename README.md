@@ -73,9 +73,6 @@
 **🕐 Always building the future**
 
 <div style="margin-top: 15px; font-size: 12px; color: #666;">
-<img src="https://komarev.com/ghpvc/?username=salbeenchapagain&style=flat-square&color=brightgreen" alt="Profile Views" />
-<span style="margin-left: 10px;">|</span>
-<span>Made with ❤️ from Nepal 🇳🇵</span>
 <span style="margin-left: 20px;">© 2024 Salbeen Chapagain</span>
 </div>
 
