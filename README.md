@@ -43,7 +43,7 @@
 
 ---
 
-## 📫 **Connect**
+##   **Connect**
 <p align="center">
 <a href="https://vercel.com/salbeenchapagains-projects">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -68,9 +68,9 @@
 
 <hr style="border: none; border-top: 1px solid #444; margin: 20px 0;">
 
-**👨‍💻 Full-Stack Developer | MERN Stack Specialist**  
-**📍 Bharatpur, Bagmati Province, Nepal**  
-**🕐 Always building the future**
+** Full-Stack Developer | MERN Stack Specialist**  
+** Bharatpur, Bagmati Province, Nepal**  
+** Always building the future**
 
 <div style="margin-top: 15px; font-size: 12px; color: #666;">
 <span style="margin-left: 20px;">© 2024 Salbeen Chapagain</span>
